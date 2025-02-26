@@ -1,0 +1,14 @@
+# Title
+
+[Title]
+
+# Description
+
+[Description]
+
+# Image
+[Paste a copy of your image]
+
+# Tags
+
+[Add any relevant tags]
